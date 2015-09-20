@@ -6,3 +6,5 @@ plot(x)
 y = x*2 + rnorm(100)
 
 plot(x,y)
+
+z = 3
